@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name": "State/Union Territory Name",
+    "capital": "Capital City",
+    "chief_minister": {
+      "name": "Chief Minister's Name",
+      "party": "Ruling Party",
+      "tenure_start": "Start Year of Tenure",
+      "contact": {
+        "office_address": "Chief Minister's Office Address",
+        "email": "Chief Minister's Email",
+        "phone": "Chief Minister's Phone Number"
+      }
+    },
+    "ruling_party": "Ruling Party",
+    "language": ["Official Language(s)"],
+    "area": "Area in Square Kilometers",
+    "history": "Brief History or Significant Events",
+    "dishes": [
+      {
+        "name": "Dish Name",
+        "type": "Type of Dish (veg/non-veg)",
+        "description": "Description of Dish"
+      },
+    "...": "More dishes"
+    ],
+    "tourist_places": [
+      {
+        "name": "Tourist Place Name",
+        "location": "Location of Tourist Place",
+        "google_maps_link": "Google Maps Link",
+        "rating": "Rating (if applicable)",
+        "history": "Brief History or Description of Tourist Place"
+      },
+    "...": "More tourist places"
+    ],
+    "airports": [
+      {
+        "name": "Airport Name",
+        "location": "Location of Airport",
+        "google_maps_link": "Google Maps Link",
+        "type": "Type of Airport"
+      },
+    "...": "More airports"
+    ]
+  }
+]
