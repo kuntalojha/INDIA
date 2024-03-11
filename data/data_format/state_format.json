@@ -1,0 +1,83 @@
+{
+  "id": 1,
+  "state_id": 1,
+  "state_name": "State Name",
+  "state_capital": "Capital Name",
+  "chief_minister": {
+    "chief_minister_name": "Chief Minister Name",
+    "party": "Ruling Party",
+    "tenure_start": "Year Start",
+    "contact": {
+      "office_address": "Chief Minister's Office Address",
+      "email": "Chief Minister's Email",
+      "phone": "Chief Minister's Phone Number"
+    }
+  },
+  "ruling_party": "Ruling Party",
+  "language": ["Language 1", "Language 2", "Language 3", "..."],
+  "area": "Area in Square Kilometers",
+  "history": "Brief History or Important Events",
+  "dishes": [
+    {
+      "name": "Dish Name",
+      "type": "veg/non-veg",
+      "description": "Description of the Dish"
+    },
+    {
+      "name": "Dish Name",
+      "type": "veg/non-veg",
+      "description": "Description of the Dish"
+    },
+    {
+      "name": "Dish Name",
+      "type": "veg/non-veg",
+      "description": "Description of the Dish"
+    },
+    "...": "More dishes"
+  ],
+  "tourist_places": [
+    {
+      "name": "Place Name",
+      "location": "Location",
+      "google_maps_link": "Google Maps Link",
+      "rating": "Rating",
+      "history": "Brief History or Description of the Place"
+    },
+    {
+      "name": "Place Name",
+      "location": "Location",
+      "google_maps_link": "Google Maps Link",
+      "rating": "Rating",
+      "history": "Brief History or Description of the Place"
+    },
+    {
+      "name": "Place Name",
+      "location": "Location",
+      "google_maps_link": "Google Maps Link",
+      "rating": "Rating",
+      "history": "Brief History or Description of the Place"
+    },
+    "...": "More tourist places"
+  ],
+  "airports": [
+    {
+      "name": "Airport Name",
+      "location": "Location",
+      "google_maps_link": "Google Maps Link",
+      "type": "Airport Type"
+    },
+    {
+      "name": "Airport Name",
+      "location": "Location",
+      "google_maps_link": "Google Maps Link",
+      "type": "Airport Type"
+    },
+    {
+      "name": "Airport Name",
+      "location": "Location",
+      "google_maps_link": "Google Maps Link",
+      "type": "Airport Type"
+    },
+    "...": "More airports"
+  ]
+}

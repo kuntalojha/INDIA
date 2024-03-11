@@ -1,0 +1,169 @@
+[
+  {
+    "id": 1,
+    "state_id": 1,
+    "state_name": "Arunachal Pradesh",
+    "state_capital": "Itanagar",
+    "chief_minister": {
+      "chief_minister_name": "Pema Khandu",
+      "party": "Bharatiya Janata Party (BJP)",
+      "tenure_start": "2016",
+      "contact": {
+        "office_address": "Chief Minister's Office, Civil Secretariat, Itanagar, Arunachal Pradesh",
+        "email": "cmo-arunachal@gov.in",
+        "phone": "+91-360-2212454"
+      }
+    },
+    "ruling_party": "Bharatiya Janata Party (BJP)",
+    "language": ["Nishi", "Adi", "Apatani", "Tagin", "Hindi"],
+    "area": 83743,
+    "history": "Arunachal Pradesh Statehood Day is state holiday which observes in every year at 20 February on the occasion of formation of Arunachal Pradesh.",
+    "dishes": [
+      {
+        "name": "Rice",
+        "type": "veg",
+        "description": "A staple food, rice is cooked in a hollow bamboo over hot coal, which gives it a different flavor."
+      },
+      {
+        "name": "Wungwut Ngam",
+        "type": "non-veg",
+        "description": "A fried chicken dish made by marinating chicken pieces in rice flour with herbs and spices, then deep-frying them."
+      },
+      {
+        "name": "Dung Po",
+        "type": "veg",
+        "description": "A unique style of rice cooked using two brass utensils and wrapped in leaves before serving."
+      },
+      {
+        "name": "Gyapa Khazi",
+        "type": "non-veg",
+        "description": "A fermented fish dish made by combining fish with a special blend of spices and herbs."
+      },
+      {
+        "name": "Koat Pitha",
+        "type": "veg",
+        "description": "A deep-fried dessert made of bananas, mustard oil, and jaggery."
+      },
+      {
+        "name": "Kharzi",
+        "type": "veg",
+        "description": "A tasty dish from the monpa tribes, which use fermented cheese in their cooking."
+      },
+      {
+        "name": "Oying vegetable stew",
+        "type": "veg",
+        "description": "A traditional dish of the Adi tribe that's easy to make at home and doesn't use any oil."
+      },
+      {
+        "name": "Poora Haah",
+        "type": "non-veg",
+        "description": "A traditional dish made with dried meat, typically from wild ducks (haah), and bamboo shoots."
+      }
+    ],
+    "tourist_places": [
+      {
+        "name": "Namdapha National Park & Tiger Reserve",
+        "location": "Changlang District, Arunachal Pradesh",
+        "google_maps_link": "https://goo.gl/maps/xxxxxxxxx",
+        "rating": 4.4,
+        "history": "Namdapha National Park & Tiger Reserve is a 1,234-square-mile rainforest reserve known for its rich biodiversity, including tigers, leopards, and ancient trees. It offers activities such as wildlife and landscape photography, jungle camping, and boat rides."
+      },
+      {
+        "name": "Pakke Tiger Reserve",
+        "location": "Seijosa, Arunachal Pradesh",
+        "google_maps_link": "https://goo.gl/maps/xxxxxxxxx",
+        "rating": 4.2,
+        "history": "Pakke Tiger Reserve is an 862-square-kilometer wildlife sanctuary famous for hornbill watching, tigers, and elephants. It is located in the Seijosa area."
+      },
+      {
+        "name": "Tawang Monastery",
+        "location": "Tawang, Arunachal Pradesh",
+        "google_maps_link": "https://goo.gl/maps/xxxxxxxxx",
+        "rating": 4.7,
+        "history": "Tawang Monastery, also known as Galden Namgey Lhatse, is a 17th-century Buddhist monastery located in the Tawang town of Arunachal Pradesh. It is one of the largest and oldest monasteries in Asia, housing a museum, prayer hall, and offering stunning natural beauty."
+      },
+      {
+        "name": "GOLDEN PAGODA",
+        "location": "Namsai, Arunachal Pradesh",
+        "google_maps_link": "https://goo.gl/maps/xxxxxxxxx",
+        "rating": 4.6,
+        "history": "The GOLDEN PAGODA, also known as Kongmu Kham, is a Thai/Burmese-style Buddhist pagoda located in Namsai, Arunachal Pradesh. It features a golden roof and landscaped gardens, with an impressive elevated location and excellent architecture."
+      },
+      {
+        "name": "Ita Fort",
+        "location": "Itanagar, Arunachal Pradesh",
+        "google_maps_link": "https://goo.gl/maps/xxxxxxxxx",
+        "rating": 3.7,
+        "history": "Ita Fort is a centuries-old brick fortress located in Itanagar, Arunachal Pradesh. It offers views of the mountains and is considered a good place for kids, with scenic beauty."
+      }
+    ],
+    "airports": [
+      {
+        "name": "Along Airport",
+        "location": "Aalo, Arunachal Pradesh",
+        "google_maps_link": "https://goo.gl/maps/xxxxxxxxx",
+        "type": "Military airport"
+      },
+      {
+        "name": "Daporijo Airport",
+        "location": "Daporijo, Arunachal Pradesh",
+        "google_maps_link": "https://goo.gl/maps/xxxxxxxxx",
+        "type": "Military airport"
+      },
+      {
+        "name": "Itanagar Airport",
+        "location": "Itanagar, Arunachal Pradesh",
+        "google_maps_link": "https://goo.gl/maps/xxxxxxxxx",
+        "type": "Domestic airport"
+      },
+      {
+        "name": "Mechuka ALG",
+        "location": "Mechuka, Arunachal Pradesh",
+        "google_maps_link": "https://goo.gl/maps/xxxxxxxxx",
+        "type": "Military airport"
+      },
+      {
+        "name": "Pasighat Airport",
+        "location": "Pasighat, Arunachal Pradesh",
+        "google_maps_link": "https://goo.gl/maps/xxxxxxxxx",
+        "type": "Domestic airport"
+      },
+      {
+        "name": "Tawang AFS",
+        "location": "Tawang, Arunachal Pradesh",
+        "google_maps_link": "https://goo.gl/maps/xxxxxxxxx",
+        "type": "Military airport"
+      },
+      {
+        "name": "Tezu Airport",
+        "location": "Tezu, Arunachal Pradesh",
+        "google_maps_link": "https://goo.gl/maps/xxxxxxxxx",
+        "type": "Domestic airport"
+      },
+      {
+        "name": "Tuting ALG",
+        "location": "Tuting, Arunachal Pradesh",
+        "google_maps_link": "https://goo.gl/maps/xxxxxxxxx",
+        "type": "Military airport"
+      },
+      {
+        "name": "Vijaynagar ALG",
+        "location": "Vijaynagar, Arunachal Pradesh",
+        "google_maps_link": "https://goo.gl/maps/xxxxxxxxx",
+        "type": "Military airport"
+      },
+      {
+        "name": "Walong ALG",
+        "location": "Walong, Arunachal Pradesh",
+        "google_maps_link": "https://goo.gl/maps/xxxxxxxxx",
+        "type": "Military airport"
+      },
+      {
+        "name": "Zero Airport",
+        "location": "Ziro, Arunachal Pradesh",
+        "google_maps_link": "https://goo.gl/maps/xxxxxxxxx",
+        "type": "Domestic airport"
+      }
+    ]
+  }
+]

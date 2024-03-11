@@ -1,0 +1,16 @@
+{
+  "party_id": 2,
+  "party_name": "Party Name",
+  "founded": "Year Founded",
+  "ideology": ["Ideology 1", "Ideology 2", "Ideology 3", "..."],
+  "leader": {
+    "name": "Leader's Name",
+    "designation": "Leader's Designation"
+  },
+  "headquarters": "Headquarters Location",
+  "symbol": "Party Symbol",
+  "website": "Party Website",
+  "description": "Brief Description of the Party",
+  "history": "Brief History of the Party",
+  "states_ruled": ["State 1", "State 2", "State 3", "..."]
+}

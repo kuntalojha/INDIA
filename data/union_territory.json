@@ -1,0 +1,106 @@
+[
+  {
+    "id": 29,
+    "union_territory_id": 1,
+    "union_territory_name": "Lakshadweep",
+    "union_territory_capital": "Kavaratti",
+    "chief_minister": {
+      "chief_minister_name": "Praful Khoda Patel",
+      "party": "Bharatiya Janata Party (BJP)",
+      "tenure_start": "2020",
+      "contact": {
+        "office_address": "Administrator's Office, Kavaratti, Lakshadweep",
+        "email": "administrator-lakshadweep@gov.in",
+        "phone": "+91-4886-262239"
+      }
+    },
+    "ruling_party": "Bharatiya Janata Party (BJP)",
+    "language": ["Malayalam", "Mahi", "Dweep Bhasha"],
+    "area": 32,
+    "history": "Lakshadweep was formed as a union territory on 1 November 1956. It is known for its coral reefs and pristine beaches.",
+    "dishes": [
+      {
+        "name": "Breadfruit Curry",
+        "type": "veg",
+        "description": "A traditional curry made from breadfruit, cooked in coconut milk with spices."
+      },
+      {
+        "name": "Tuna Fish Curry",
+        "type": "non-veg",
+        "description": "A spicy curry made from fresh tuna fish, coconut milk, and local spices."
+      },
+      {
+        "name": "Coconut Rice",
+        "type": "veg",
+        "description": "A fragrant rice dish cooked in coconut milk and garnished with grated coconut."
+      },
+      {
+        "name": "Kadala Curry",
+        "type": "veg",
+        "description": "A popular curry made from black chickpeas, cooked with coconut, onions, and spices."
+      },
+      {
+        "name": "Pazham Nurukku",
+        "type": "veg",
+        "description": "A sweet snack made from ripe bananas, coated with jaggery and fried until crispy."
+      }
+    ],
+    "tourist_places": [
+      {
+        "name": "Agatti Island",
+        "location": "Lakshadweep",
+        "google_maps_link": "https://goo.gl/maps/xxxxxxxxx",
+        "rating": 4.5,
+        "history": "Agatti Island is known for its turquoise lagoons, coral reefs, and white sandy beaches. It offers opportunities for snorkeling, scuba diving, and water sports."
+      },
+      {
+        "name": "Kavaratti Island",
+        "location": "Lakshadweep",
+        "google_maps_link": "https://goo.gl/maps/xxxxxxxxx",
+        "rating": 4.3,
+        "history": "Kavaratti Island is the administrative capital of Lakshadweep and is known for its pristine beaches, marine life, and water sports activities like kayaking and sailing."
+      },
+      {
+        "name": "Minicoy Island",
+        "location": "Lakshadweep",
+        "google_maps_link": "https://goo.gl/maps/xxxxxxxxx",
+        "rating": 4.4,
+        "history": "Minicoy Island is the southernmost inhabited island of Lakshadweep. It is famous for its coral reefs, lagoons, and traditional culture."
+      },
+      {
+        "name": "Kalpeni Island",
+        "location": "Lakshadweep",
+        "google_maps_link": "https://goo.gl/maps/xxxxxxxxx",
+        "rating": 4.2,
+        "history": "Kalpeni Island is known for its picturesque beaches, coral reefs, and the Kalpeni Lighthouse, offering panoramic views of the surrounding islands."
+      },
+      {
+        "name": "Bangaram Island",
+        "location": "Lakshadweep",
+        "google_maps_link": "https://goo.gl/maps/xxxxxxxxx",
+        "rating": 4.6,
+        "history": "Bangaram Island is a pristine coral island known for its clear turquoise waters, vibrant coral reefs, and rich marine life. It is a popular destination for honeymooners and water sports enthusiasts."
+      }
+    ],
+    "airports": [
+      {
+        "name": "Agatti Airport",
+        "location": "Agatti, Lakshadweep",
+        "google_maps_link": "https://goo.gl/maps/xxxxxxxxx",
+        "type": "Domestic airport"
+      },
+      {
+        "name": "Minicoy Airport",
+        "location": "Minicoy, Lakshadweep",
+        "google_maps_link": "https://goo.gl/maps/xxxxxxxxx",
+        "type": "Domestic airport"
+      },
+      {
+        "name": "Kavaratti Helipad",
+        "location": "Kavaratti, Lakshadweep",
+        "google_maps_link": "https://goo.gl/maps/xxxxxxxxx",
+        "type": "Helipad"
+      }
+    ]
+  }
+]

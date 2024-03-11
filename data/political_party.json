@@ -1,0 +1,37 @@
+{
+  "party_id": 1,
+  "party_name": "Bharatiya Janata Party (BJP)",
+  "founded": "1980",
+  "ideology": [
+    "Hindutva",
+    "Integral humanism",
+    "Nationalism",
+    "Social conservatism"
+  ],
+  "leader": {
+    "name": "Jagat Prakash Nadda",
+    "designation": "National President"
+  },
+  "headquarters": "11, Ashoka Road, New Delhi",
+  "symbol": "Lotus",
+  "website": "https://www.bjp.org/",
+  "description": "The Bharatiya Janata Party (BJP) is one of the two major political parties in India, along with the Indian National Congress. It is known for its ideology of Hindutva and has a strong base among Hindu nationalists.",
+  "history": "The BJP was founded in 1980 by leaders of the erstwhile Bharatiya Jana Sangh, with the aim of promoting the ideology of Hindutva and representing the interests of Hindu nationalists in Indian politics.",
+  "states_ruled": [
+    "Uttar Pradesh",
+    "Gujarat",
+    "Madhya Pradesh",
+    "Karnataka",
+    "Assam",
+    "Himachal Pradesh",
+    "Tripura",
+    "Manipur",
+    "Goa",
+    "Uttarakhand",
+    "Arunachal Pradesh",
+    "Haryana",
+    "Jharkhand",
+    "Bihar",
+    "Maharashtra"
+  ]
+}
